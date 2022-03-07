@@ -1,0 +1,28 @@
+body{
+    background: url(https://kartinkin.net/uploads/posts/2021-07/1625151689_48-kartinkin-com-p-fon-gradient-krasivie-foni-48.jpg);
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+div{
+    background-position: right;
+    height: 10vh;
+}
+
+p{
+    font-size: 33px;
+}
+
+li{
+    font-size: 33px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 40px;
+}
